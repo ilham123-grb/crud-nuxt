@@ -1,0 +1,2 @@
+# crud-nuxt
+aplikasi sederhana
